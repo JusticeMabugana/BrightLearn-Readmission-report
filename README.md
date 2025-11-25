@@ -50,11 +50,11 @@ Solution: Use affordable tools like websites, posters, and health talks.
 
 ## Project files
 
-* [Case study](https://github.com/JusticeMabugana/BrightLearn-Readmission-report/blob/main/Inputs/Patient%20Readmission%20Case%20Study.pdf) - This file contains the Case Study
+* [Case study](https://github.com/JusticeMabugana/BrightLearn-Readmission-report/blob/main/1.Project%20Description%20%26%20Raw%20Data/Patient%20Readmission%20Case%20Study.pdf) - This file contains the Case Study
 
-* [Dataset](https://github.com/JusticeMabugana/BrightLearn-Readmission-report/blob/main/Inputs/Patient_Readmission%20-%20Raw%20Data.csv) - This file contains the dataset used in this analysis.
+* [Dataset](https://github.com/JusticeMabugana/BrightLearn-Readmission-report/blob/main/1.Project%20Description%20%26%20Raw%20Data/Patient_Readmission%20-%20Raw%20Data.csv) - This file contains the dataset used in this analysis.
 
-* [SQL Code](https://github.com/JusticeMabugana/BrightLearn-Readmission-report/blob/main/Workings/Patient%20Readmission%20Code.sql) - This is the script used in the analysis.
+* [SQL Code](https://github.com/JusticeMabugana/BrightLearn-Readmission-report/blob/main/3.Data%20Processing/Patient%20Readmission%20Code.sql) - This is the script used in the analysis.
 
 * This is a snippet of the Dashboard generated using the provided data
   ![Visuals](https://github.com/JusticeMabugana/BrightLearn-Readmission-report/blob/main/4.Project%20Presentation/Patient%20Readmissions%20dashboard.png)
