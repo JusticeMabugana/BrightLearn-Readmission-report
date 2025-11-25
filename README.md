@@ -57,7 +57,7 @@ Solution: Use affordable tools like websites, posters, and health talks.
 * [SQL Code](https://github.com/JusticeMabugana/BrightLearn-Readmission-report/blob/main/Workings/Patient%20Readmission%20Code.sql) - This is the script used in the analysis.
 
 * This is a snippet of the Dashboard generated using the provided data
-  ![Visuals](https://github.com/JusticeMabugana/BrightLearn-Readmission-report/blob/main/Output/Patient%20Readmissions%20dashboard.png)
+  ![Visuals](https://github.com/JusticeMabugana/BrightLearn-Readmission-report/blob/main/4.Project%20Presentation/Patient%20Readmissions%20dashboard.png)
 
   ## Tools used
 * Databricks (SQL)
